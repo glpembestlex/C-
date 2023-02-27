@@ -1,0 +1,3 @@
+﻿  Kaynak.cpp
+C:\Users\Ali\source\repos\Project1\Project1\Kaynak.cpp(7,37): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+  Project1.vcxproj -> C:\Users\Ali\source\repos\Project1\x64\Debug\3.ders.exe
